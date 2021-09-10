@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+
+.content-wrap {
+  border: 0;
+  background-image: url("../image/bg-web.jpg");
+  background-size: cover;
+}
+
+#logincust,
+#loginadm,
+#registrasicust {
+  display: none;
+}
